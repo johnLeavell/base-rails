@@ -6,7 +6,7 @@ databases:
 
 services:
   - type: web
-    name: YOURAPPNAME
+    name: johnnyspieshop
     plan: free
     env: ruby
     buildCommand: "./bin/render-build.sh"
