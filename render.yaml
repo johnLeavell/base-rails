@@ -1,8 +1,8 @@
 databases:
   - name: johnnyspieshop
     plan: free
-    databaseName: YOURAPPNAME
-    user: YOURAPPNAME
+    databaseName: pieshop
+    user: pies
 
 services:
   - type: web
